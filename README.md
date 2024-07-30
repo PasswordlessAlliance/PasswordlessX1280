@@ -13,3 +13,12 @@ In this repository you can share information about Passwordless X1280 and discus
 * [FAQ](https://www.passwordlessalliance.org/en/faq/)
 * [About](https://www.passwordlessalliance.org/en/about/) 
 * [Contact us](https://www.passwordlessalliance.org/en/become-a-member/) - Experience fast authentication with PasswordlessX1280
+
+## Become a member
+
+Why online service providers should participate as service members
+Improve service reliability by providing users with a means of verifying fake online services
+Improved accessibility for online service users
+Passwordless X1280 app ad revenue sharing
+Prevention of secondary account theft in case of data theft from online services
+[Become a member](https://www.passwordlessalliance.org/en/become-a-member/)
