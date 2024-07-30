@@ -21,4 +21,5 @@ Why online service providers should participate as service members
 * Improved accessibility for online service users
 * Passwordless X1280 app ad revenue sharing
 * Prevention of secondary account theft in case of data theft from online services
+  
 [Become a member](https://www.passwordlessalliance.org/en/become-a-member/)
