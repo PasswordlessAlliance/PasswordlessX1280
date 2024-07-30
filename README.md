@@ -12,4 +12,4 @@ In this repository you can share information about Passwordless X1280 and discus
 
 * [FAQ](https://www.passwordlessalliance.org/en/faq/)
 * [About](https://www.passwordlessalliance.org/en/about/) 
-* [Contact us] (https://www.passwordlessalliance.org/en/become-a-member/) - Experience fast authentication with PasswordlessX1280
+* [Contact us](https://www.passwordlessalliance.org/en/become-a-member/) - Experience fast authentication with PasswordlessX1280
